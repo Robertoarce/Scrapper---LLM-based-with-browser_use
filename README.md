@@ -9,6 +9,9 @@ An intelligent web scraper that uses **LLM-powered browser automation** to extra
 <br>
 <img src='leboncoin2.png' width='65%' style='display: block; margin: 0 auto; padding-top: 20px;'>  
 <br>
+<br>
+<img src='lebonc.png' width='65%' style='display: block; margin: 0 auto; padding-top: 20px;'>  
+<br>
 
 ##  Features
 
